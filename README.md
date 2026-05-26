@@ -1,19 +1,24 @@
 <div align="center">
 
-<!-- LUXURY GOLD HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,40:1a1200,100:0a0a0a&height=220&section=header&text=KONG&fontSize=90&fontColor=D4AF37&animation=fadeIn&fontAlignY=40&desc=%E2%80%A2%20Builder%20%E2%80%A2%20Operator%20%E2%80%A2%20Enterprise%20Systems&descAlignY=62&descAlign=50&descSize=20&descColor=C9A84C&stroke=D4AF37&strokeWidth=1" width="100%"/>
+<!-- KKB LUXURY SVG MONOGRAM LOGO -->
+<img src="./logo.svg" width="220" height="220" alt="KKB Logo"/>
 
-<!-- LUXURY MONOGRAM AVATAR -->
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=14&duration=4000&pause=2000&color=D4AF37&center=true&vCenter=true&width=500&lines=%E2%97%86+KKB+%E2%80%A2+iQuarry+%E2%80%A2+Sandpit-n-Quarry+%E2%97%86;%E2%9C%A6+Kuala+Lumpur%2C+Malaysia+%E2%9C%A6;%F0%9F%8F%86+Enterprise+Builder+%26+Operator+%F0%9F%8F%86" alt="Luxury Typing"/>
+<br/>
+
+<!-- LUXURY GOLD HERO BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,40:1a1200,100:0a0a0a&height=180&section=header&text=KONG&fontSize=88&fontColor=D4AF37&animation=fadeIn&fontAlignY=45&desc=%E2%80%A2%20Builder%20%E2%80%A2%20Operator%20%E2%80%A2%20Enterprise%20Systems&descAlignY=68&descAlign=50&descSize=19&descColor=C9A84C&stroke=D4AF37&strokeWidth=1" width="100%"/>
+
+<!-- LUXURY TYPING LINE -->
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=13&duration=4000&pause=2000&color=D4AF37&center=true&vCenter=true&width=520&lines=%E2%97%86+KKB+%E2%80%A2+iQuarry+%E2%80%A2+Sandpit-n-Quarry+%E2%97%86;%E2%9C%A6+Kuala+Lumpur%2C+Malaysia+%E2%9C%A6;%F0%9F%8F%86+Enterprise+Builder+%26+Operator+%F0%9F%8F%86" alt="Luxury Typing"/>
 
 <br/>
 
 <!-- GOLD DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=D4AF37&height=2&section=header" width="60%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=D4AF37&height=2&section=header" width="55%"/>
 
 <br/><br/>
 
-<!-- BADGES -->
+<!-- LUXURY BADGES -->
 [![GitHub followers](https://img.shields.io/github/followers/Kingkongback?label=Follow&style=for-the-badge&logo=github&logoColor=0a0a0a&color=D4AF37&labelColor=1a1200)](https://github.com/Kingkongback)
 [![Profile Views](https://komarev.com/ghpvc/?username=Kingkongback&style=for-the-badge&color=D4AF37&labelColor=1a1200&label=PROFILE+VIEWS)](https://github.com/Kingkongback)
 [![Organization](https://img.shields.io/badge/%E2%97%86%20Sandpit--n--Quarry-iQuarry-D4AF37?style=for-the-badge&logoColor=0a0a0a&labelColor=1a1200)](https://github.com/Sandpit-n-Quarry)
@@ -140,6 +145,10 @@ const KONG = {
 
 <div align="center">
 
+<img src="./logo.svg" width="80" height="80" alt="KKB"/>
+
+<br/>
+
 [![GitHub](https://img.shields.io/badge/GitHub-@Kingkongback-1a1200?style=for-the-badge&logo=github&logoColor=D4AF37)](https://github.com/Kingkongback)
 [![Org](https://img.shields.io/badge/%E2%97%86-Sandpit--n--Quarry-D4AF37?style=for-the-badge&logoColor=0a0a0a&labelColor=1a1200)](https://github.com/Sandpit-n-Quarry)
 [![KL](https://img.shields.io/badge/🇲🇾-Kuala_Lumpur-D4AF37?style=for-the-badge&labelColor=1a1200)](https://maps.google.com/?q=Kuala+Lumpur)
@@ -148,7 +157,9 @@ const KONG = {
 
 > *"♦️ Digitizing industries. Building systems. Operating at scale. ♦️"*
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=D4AF37&height=2&section=footer" width="60%"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=D4AF37&height=2&section=footer" width="55%"/>
 
 <br/>
 
