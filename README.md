@@ -19,8 +19,8 @@
 <br/><br/>
 
 <!-- LUXURY BADGES -->
-[![GitHub followers](https://img.shields.io/github/followers/Kingkongback?label=Follow&style=for-the-badge&logo=github&logoColor=0a0a0a&color=D4AF37&labelColor=1a1200)](https://github.com/Kingkongback)
-[![Profile Views](https://komarev.com/ghpvc/?username=Kingkongback&style=for-the-badge&color=D4AF37&labelColor=1a1200&label=PROFILE+VIEWS)](https://github.com/Kingkongback)
+[![GitHub followers](https://img.shields.io/github/followers/KongBuilder?label=Follow&style=for-the-badge&logo=github&logoColor=0a0a0a&color=D4AF37&labelColor=1a1200)](https://github.com/KongBuilder)
+[![Profile Views](https://komarev.com/ghpvc/?username=KongBuilder&style=for-the-badge&color=D4AF37&labelColor=1a1200&label=PROFILE+VIEWS)](https://github.com/KongBuilder)
 [![Organization](https://img.shields.io/badge/%E2%97%86%20Sandpit--n--Quarry-iQuarry-D4AF37?style=for-the-badge&logoColor=0a0a0a&labelColor=1a1200)](https://github.com/Sandpit-n-Quarry)
 
 </div>
@@ -32,7 +32,7 @@
 ```typescript
 const KONG = {
   displayName  : "Kong · Builder & Operator",
-  handle       : "@Kingkongback",
+  handle       : "@KongBuilder",
   location     : "Kuala Lumpur, Malaysia 🇲🇾",
   organization : "Sandpit-n-Quarry  |  iQuarry",
 
@@ -102,11 +102,11 @@ const KONG = {
 
 <div align="center">
 
-[![terraflow-system](https://github-readme-stats.vercel.app/api/pin/?username=Kingkongback&repo=terraflow-system&theme=github_dark&border_color=D4AF37&title_color=D4AF37&icon_color=D4AF37&bg_color=0a0a0a)](https://github.com/Kingkongback/terraflow-system)
-[![transit-pal-kl](https://github-readme-stats.vercel.app/api/pin/?username=Kingkongback&repo=transit-pal-kl&theme=github_dark&border_color=D4AF37&title_color=D4AF37&icon_color=D4AF37&bg_color=0a0a0a)](https://github.com/Kingkongback/transit-pal-kl)
+[![terraflow-system](https://github-readme-stats.vercel.app/api/pin/?username=KongBuilder&repo=terraflow-system&theme=github_dark&border_color=D4AF37&title_color=D4AF37&icon_color=D4AF37&bg_color=0a0a0a)](https://github.com/KongBuilder/terraflow-system)
+[![transit-pal-kl](https://github-readme-stats.vercel.app/api/pin/?username=KongBuilder&repo=transit-pal-kl&theme=github_dark&border_color=D4AF37&title_color=D4AF37&icon_color=D4AF37&bg_color=0a0a0a)](https://github.com/KongBuilder/transit-pal-kl)
 
-[![quarryxpress-invoice-flow](https://github-readme-stats.vercel.app/api/pin/?username=Kingkongback&repo=quarryxpress-invoice-flow&theme=github_dark&border_color=D4AF37&title_color=D4AF37&icon_color=D4AF37&bg_color=0a0a0a)](https://github.com/Kingkongback/quarryxpress-invoice-flow)
-[![transport-hub](https://github-readme-stats.vercel.app/api/pin/?username=Kingkongback&repo=transport-hub&theme=github_dark&border_color=D4AF37&title_color=D4AF37&icon_color=D4AF37&bg_color=0a0a0a)](https://github.com/Kingkongback/transport-hub)
+[![quarryxpress-invoice-flow](https://github-readme-stats.vercel.app/api/pin/?username=KongBuilder&repo=quarryxpress-invoice-flow&theme=github_dark&border_color=D4AF37&title_color=D4AF37&icon_color=D4AF37&bg_color=0a0a0a)](https://github.com/KongBuilder/quarryxpress-invoice-flow)
+[![transport-hub](https://github-readme-stats.vercel.app/api/pin/?username=KongBuilder&repo=transport-hub&theme=github_dark&border_color=D4AF37&title_color=D4AF37&icon_color=D4AF37&bg_color=0a0a0a)](https://github.com/KongBuilder/transport-hub)
 
 </div>
 
@@ -116,12 +116,12 @@ const KONG = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kingkongback&show_icons=true&theme=github_dark&border_color=D4AF37&title_color=D4AF37&icon_color=D4AF37&bg_color=0a0a0a&hide_border=false&include_all_commits=true&count_private=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kingkongback&layout=compact&theme=github_dark&border_color=D4AF37&title_color=D4AF37&bg_color=0a0a0a&hide_border=false&langs_count=8"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=KongBuilder&show_icons=true&theme=github_dark&border_color=D4AF37&title_color=D4AF37&icon_color=D4AF37&bg_color=0a0a0a&hide_border=false&include_all_commits=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KongBuilder&layout=compact&theme=github_dark&border_color=D4AF37&title_color=D4AF37&bg_color=0a0a0a&hide_border=false&langs_count=8"/>
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Kingkongback&theme=github-dark-blue&border=D4AF37&ring=D4AF37&fire=C9A84C&currStreakLabel=D4AF37&background=0a0a0a)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=KongBuilder&theme=github-dark-blue&border=D4AF37&ring=D4AF37&fire=C9A84C&currStreakLabel=D4AF37&background=0a0a0a)](https://git.io/streak-stats)
 
 </div>
 
@@ -131,7 +131,7 @@ const KONG = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Kingkongback&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=KongBuilder&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -139,7 +139,7 @@ const KONG = {
 
 ## 📈 Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kingkongback&theme=github-compact&bg_color=0a0a0a&color=D4AF37&line=D4AF37&point=C9A84C&area=true&area_color=D4AF37&hide_border=false&border_color=D4AF37" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KongBuilder&theme=github-compact&bg_color=0a0a0a&color=D4AF37&line=D4AF37&point=C9A84C&area=true&area_color=D4AF37&hide_border=false&border_color=D4AF37" width="100%"/>
 
 ---
 
@@ -149,7 +149,7 @@ const KONG = {
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-@Kingkongback-1a1200?style=for-the-badge&logo=github&logoColor=D4AF37)](https://github.com/Kingkongback)
+[![GitHub](https://img.shields.io/badge/GitHub-@KongBuilder-1a1200?style=for-the-badge&logo=github&logoColor=D4AF37)](https://github.com/KongBuilder)
 [![Org](https://img.shields.io/badge/%E2%97%86-Sandpit--n--Quarry-D4AF37?style=for-the-badge&logoColor=0a0a0a&labelColor=1a1200)](https://github.com/Sandpit-n-Quarry)
 [![KL](https://img.shields.io/badge/🇲🇾-Kuala_Lumpur-D4AF37?style=for-the-badge&labelColor=1a1200)](https://maps.google.com/?q=Kuala+Lumpur)
 
